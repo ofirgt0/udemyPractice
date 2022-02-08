@@ -21,4 +21,4 @@ namespace Infrastructure.Data
             return query;
         }
     }
-} 
+}
